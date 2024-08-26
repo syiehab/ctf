@@ -19,10 +19,15 @@ curl http://chall.ycfteam.in:6375/elite -H "User-Agent: Elite" -H "X-Forwarded-F
 ## Valour
 
 given png image
+
 ![courage](https://github.com/user-attachments/assets/002fc497-1b3b-405d-a24f-35d5f86576d6)
 
 ```binwalk courage.png```
+
 ```binwalk --d=".*" courage.png```
+
 ```mv 30213 hidden.zip```
+
 ```zip2john hidden.zip pass.hash```
+
 ```john pass.hash --wordlist=/usr/share/wordlists/rockyou.txt```
