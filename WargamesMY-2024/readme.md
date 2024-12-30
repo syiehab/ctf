@@ -12,7 +12,7 @@ date: 2024-12-30 01:25:12
 # WargamesMY 2024
 
 Writeup for the challenges that I solved in Wargames.MY 2024
-This is my first time participating in WMGY and we solved some solvable chalenge.
+This is my first time participating in WMGY and we solved some solvable challenges.
 
 ![image](https://github.com/user-attachments/assets/264db245-cd27-429b-93a7-eae98dce70a4)
 
